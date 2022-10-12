@@ -1,5 +1,6 @@
 Continuous Integration Demo
 ============================
+[![Python application](https://github.com/koakatta/demo-pyci/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/koakatta/demo-pyci/actions/workflows/python-app.yml)
 
 This project demonstrates use of GitHub Actions to build and test a Python project.  
 Create a repository on GitHub, then use GitHub Actions to build and test it.
